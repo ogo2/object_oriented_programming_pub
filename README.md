@@ -1,1 +1,5 @@
-# object_oriented_programming_pub
+object_oriented_programming
+Пример кода для практических работ на python
+
+Применение инкапсуляции при разработке банковской системы
+Запись данных клиента в таблицу XLSX с помощью библиотеки pandas
